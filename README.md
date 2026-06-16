@@ -1,4 +1,4 @@
-🌍 WorldScope — Global Population Analytics Dashboard
+![Dashboard](dashboard.png)🌍 WorldScope — Global Population Analytics Dashboard
 📌 Project Overview
 
 WorldScope is an interactive Power BI dashboard designed to analyze and visualize global population trends across countries. The dashboard provides insights into population distribution, world population share, and yearly population changes using dynamic visualizations and filters.
